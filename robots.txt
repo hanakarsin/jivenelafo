@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jivenelafo.netlify.app/sitemap.xml
